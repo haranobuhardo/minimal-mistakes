@@ -14,7 +14,7 @@ But what if the action after the conditional statement is kinda different than u
 Instead of getting angry, they’re start crying, or even laughing, isn’t it so weird? Wouldn’t you guys notice it easily?
 Let’s get back to the conditional logic things. If you guys have no idea about it, in a nutshell, it’s likes a rules consist of If Statement, Else Statement, or Else If Statement. If any of that statement is true, or on-going, there’s another state called Action, or what to do. Eventhough it seems like a very simple rules, but in my opinion our brain was made from a collection of conditional logic. When we are hungry, we go eat, when we feeling sleepy, we go to bed, when we get sad, we cry.  
   
-![Conditional Logic](/images/conditional-logic.png "Conditional logic illustration")
+![Conditional Logic](/images/conditional-logic.jpg "Conditional logic illustration")
 _Illustration of Conditional Statement in C++ (<www.ecomputernotes.com>)_
 
 If you look more closely to my explanation about conditional logic, turns out it also consist of Else If statement. It’s not as simple as when you are hungry, you go eat, some of us already programmed to have another option, like instead of reading their hungry feeling, they also have to check their money or food stock, if they don’t have food but they are hungry, they can’t eat, so they’ll just drink or do something else. This is the part that people mostly missed.  
