@@ -2,6 +2,7 @@
 layout: post
 title: Is Someone Changing?
 subtitle: Is Someone Near You Really Changing?
+tag: [personal, friendship, emotional, diary]
 ---
   
 Do you ever feel someone near you are changing?
