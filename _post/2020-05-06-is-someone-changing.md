@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Someone Changing?
+subtitle: Is Someone Near You Really Changing?
 ---
   
 Do you ever feel someone near you are changing?
