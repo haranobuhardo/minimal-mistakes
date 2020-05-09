@@ -16,9 +16,6 @@ Let’s get back to the conditional logic things. If you guys have no idea about
   
 ![Conditional Logic](/images/conditional-logic.jpg "Conditional logic illustration")  
 _Illustration of Conditional Statement in C++ (<www.ecomputernotes.com>)_  
-_italics_
-<http://github.com/barryclark/jekyll-now/>
-[Jekyll Now](http://github.com/barryclark/jekyll-now/)
 
 If you look more closely to my explanation about conditional logic, turns out it also consist of Else If statement. It’s not as simple as when you are hungry, you go eat, some of us already programmed to have another option, like instead of reading their hungry feeling, they also have to check their money or food stock, if they don’t have food but they are hungry, they can’t eat, so they’ll just drink or do something else. This is the part that people mostly missed.  
 
