@@ -1,8 +1,15 @@
 ---
-layout: post
-title: Is Someone Changing?
-subtitle: Is Someone Near You Really Changing?
-tag: [personal, friendship, emotional, diary]
+title: "Is Someone Changing?"
+excerpt: "A bunch of text to test readability."
+categories:
+  - Edge Case
+tags:
+  - content
+  - css
+  - edge case
+  - html
+  - layout
+  - title
 ---
   
 Do you ever feel someone near you are changing?
