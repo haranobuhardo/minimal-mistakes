@@ -2,14 +2,13 @@
 title: "Is Someone Changing?"
 excerpt: "A bunch of text to test readability."
 categories:
-  - Edge Case
+  - personal
+  - life
 tags:
-  - content
-  - css
-  - edge case
-  - html
-  - layout
-  - title
+  - person
+  - social
+  - life
+  - emotion
 ---
   
 Do you ever feel someone near you are changing?
