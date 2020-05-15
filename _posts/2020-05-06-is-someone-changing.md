@@ -9,6 +9,14 @@ tags:
   - social
   - life
   - emotion
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/change-header.jpg
+  # actions:
+  #   - label: "Download"
+  #     url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
   
 Do you ever feel someone near you are changing?
