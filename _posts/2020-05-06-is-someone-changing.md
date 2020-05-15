@@ -1,7 +1,6 @@
 ---
 title: "Is Someone Changing?"
 categories:
-  - personal
   - life
 tags:
   - person
