@@ -1,5 +1,5 @@
 ---
-title: "Is Someone Changing?"
+title: "How to Calculate Dew and Bubble Point of Mixture with DWSIM"
 categories:
   - personal
   - life
