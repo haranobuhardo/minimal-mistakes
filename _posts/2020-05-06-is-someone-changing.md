@@ -9,14 +9,11 @@ tags:
   - social
   - life
   - emotion
-<<<<<<< HEAD
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/change-header.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-=======
->>>>>>> parent of 5c9005ce... Rearrangin Post and Nav
 ---
   
 Do you ever feel someone near you are changing?
