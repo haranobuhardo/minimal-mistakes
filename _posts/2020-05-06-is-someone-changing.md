@@ -1,6 +1,5 @@
 ---
 title: "Is Someone Changing?"
-excerpt: "A bunch of text to test readability."
 categories:
   - personal
   - life
