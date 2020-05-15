@@ -9,9 +9,8 @@ tags:
   - life
   - emotion
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/change-header.jpg
+  teaser: /assets/images/change-header.jpg
+  image: /assets/images/change-header.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
   
