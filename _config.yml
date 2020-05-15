@@ -56,13 +56,13 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
 algolia:
-  application_id         : F9KEMJN26D # YOUR_APPLICATION_ID
-  index_name             : haranobuhardo # YOUR_INDEX_NAME
-  search_only_api_key    : 8d4224a0f50b5f30907251a231991564 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
+  application_id         : #F9KEMJN26D # YOUR_APPLICATION_ID
+  index_name             : #haranobuhardo # YOUR_INDEX_NAME
+  search_only_api_key    : #8d4224a0f50b5f30907251a231991564 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : #true # true (default), false
 
 google:
-  search_engine_id       : 001359657091282617214:g5eyw5nq8wi # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : #001359657091282617214:g5eyw5nq8wi # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 
 # SEO Related
