@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 <<<<<<< HEAD
 logo                     : "/assets/images/logo-hardo.png"
 =======
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo-hardo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 >>>>>>> parent of e1778697... Update _config.yml
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
