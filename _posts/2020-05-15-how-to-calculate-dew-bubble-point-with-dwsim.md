@@ -1,34 +1,49 @@
 ---
-title: "How to Calculate Dew and Bubble Point of Mixture with DWSIM"
+title: "How to Create Phase Diagram with ChemSep"
 categories:
   - engineering
 tags:
-  - person
-  - social
-  - life
-  - emotion
+  - chemsep
+  - learn
+  - engineering
+  - tutorial
+  - phase-diagram
 header:
-  teaser: /assets/images/change-header.jpg
-  image: /assets/images/change-header.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  teaser: /assets/images/chemsep-book-cover.jpg
+  image: /assets/images/chemsep-book-cover.jpg
+  caption: "Photo credit: [**Amazon**](https://www.amazon.com/ChemSep-book-Ross-Taylor/dp/3831110689)"
 ---
   
-Do you ever feel someone near you are changing?
+ChemSep is a column simulator for distillation, absorption, and extraction operations. ChemSep project was founded in February 1988 by Arno Haket, Harry Kooijman and Ross Taylor. This software was designed to be easy to use by students with no experience of engineering software, while having sufficient flexibility and power to appeal to expert users. ChemSep released a LITE version in 2006, which is free-of-charge, so that anybody can test-drive the program.  
   
-We agreed that, when other people usually do something in a certain pattern like they used to, or just based on what they said or their story. Maybe in some cases it is more like to conditional logic in Programming or Math. For example if they starving, then they’ll start becoming an angry bird, so in the future if they’re start starving, they’ll start angry too. Sometimes we think it’s as easy as that.
+One of the most common problem we frequently face in thermodynamic is creating a phase-diagram for a mixture. ChemSep can help you to create this by:  
   
-But what if the action after the conditional statement is kinda different than usual?  
-  
-Instead of getting angry, they’re start crying, or even laughing, isn’t it so weird? Wouldn’t you guys notice it easily?
-Let’s get back to the conditional logic things. If you guys have no idea about it, in a nutshell, it’s likes a rules consist of If Statement, Else Statement, or Else If Statement. If any of that statement is true, or on-going, there’s another state called Action, or what to do. Eventhough it seems like a very simple rules, but in my opinion our brain was made from a collection of conditional logic. When we are hungry, we go eat, when we feeling sleepy, we go to bed, when we get sad, we cry.  
-  
-![Conditional Logic](/images/conditional-logic.jpg "Conditional logic illustration")  
-_Illustration of Conditional Statement in C++ ([www.ecomputernotes.com](www.ecomputernotes.com))_  
+1. Open your ChemSep application (wincs.exe), mine version is 8.14, so this tutorial might not work or different in newer or older version  
+2. Name your Project’s title, I’m going to name it “Phase Diagram for Mixture of Acetone and Benzene”  
+<figure>
+	<a href="\assets\images\phase-diagram-chemsep-1.jpg"><img src="\assets\images\phase-diagram-chemsep-1.jpg"></a>
+	<!-- <figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption> -->
+</figure>
+3. Click on the “Component” label, and then find the compound that you want to add into the mixture, in this case it’s Acetone and Benzene. After you found the compound, click on it, and then press “Add” button to add that compound to the “Selected Components List”  
+<figure>
+	<a href="\assets\images\phase-diagram-chemsep-2.jpg"><img src="\assets\images\phase-diagram-chemsep-2.jpg"></a>
+</figure>
+4. Select proper K-Value, Active Coefficient, Vapor Pressure and Enthalpy of the Thermodynamics Model that you want to use (in this case we’re going to use DECHEMA for K-Value, UNIFAC for Activity Model, Antoine for Vapor Pressure, and None for the Enthalpy)  
+<figure>
+	<a href="\assets\images\phase-diagram-chemsep-3.jpg"><img src="\assets\images\phase-diagram-chemsep-3.jpg"></a>
+</figure>
+5. Go to Analysis – Phase diagrams – Binary menu option  
+<figure>
+	<a href="\assets\images\phase-diagram-chemsep-4.jpg"><img src="\assets\images\phase-diagram-chemsep-4.jpg"></a>
+</figure>
+6. After “Binary Phase Diagram” opened, select the phase diagram type, Temperature (you can compare two temperature), and number of points of your diagram. Lastly, press the “Calculate” button to generate the Phase Diagram  
+<figure>
+	<a href="\assets\images\phase-diagram-chemsep-5.jpg"><img src="\assets\images\phase-diagram-chemsep-5.jpg"></a>
+</figure>
+7. That’s it! If you want to copy the diagram just simply right click on the diagram and choose _“Copy plot as”_ and select in what type of clipboard you want to copy the diagram.  
 
-If you look more closely to my explanation about conditional logic, turns out it also consist of Else If statement. It’s not as simple as when you are hungry, you go eat, some of us already programmed to have another option, like instead of reading their hungry feeling, they also have to check their money or food stock, if they don’t have food but they are hungry, they can’t eat, so they’ll just drink or do something else. This is the part that people mostly missed.  
+This program really made creating a phase-diagram for a mixture really easy, but I think so far it only support Binary and Tersier Phase Diagram. Could i have any more information about how do we can use this software to create a phase-diagram for Multiple-Component mixture.  
 
-We only expect someone to do a thing when they’re in a certain condition, but actually the actual condition won’t work as simple as that. It could be they had another condition that prevent them to do something that they’ve done in the past, and finally break the pattern. You have to get used with this.   
-
-And then how to deal with this? As far as I know, it’s kinda simple, it’s communication. Communicate with the person you feel acting different, and simply ask “Why did you do that?”. Ya although, it’s not always ends well, but at least you’ve tried, right?
+If you want to know more about this amazing software, you may visit [www.chemsep.org](http://www.chemsep.org/) or simply download the guide book [here](http://www.chemsep.org/book/docs/book2.pdf).  
   
-> Not everything works like we thought or planned.
+> Stay hungry, stay foolish.
