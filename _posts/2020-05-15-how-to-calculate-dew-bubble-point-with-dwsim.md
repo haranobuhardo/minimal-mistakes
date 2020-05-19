@@ -19,13 +19,7 @@ header:
 One of the most common problem we frequently face in thermodynamic is creating a phase-diagram for a mixture. ChemSep can help you to create this by:  
   
 1. Open your ChemSep application **(wincs.exe)**, mine version is 8.14, so this tutorial might not work or different in newer or older version  
-2. Name your Project’s title, I’m going to name it **Phase Diagram for Mixture of Acetone and Benzene**  
-
-<figure>
-	<a href="\assets\images\phase-diagram-chemsep-1.jpg"><img src="\assets\images\phase-diagram-chemsep-1.jpg"></a>
-	<!-- <figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption> -->
-</figure>
-
+2. Name your Project’s title, I’m going to name it **Phase Diagram for Mixture of Acetone and Benzene**<figure><a href="\assets\images\phase-diagram-chemsep-1.jpg"><img src="\assets\images\phase-diagram-chemsep-1.jpg"></a></figure>  
 3. Click on the **Component** label, and then find the compound that you want to add into the mixture, in this case it’s Acetone and Benzene. After you found the compound, click on it, and then press **Add** button to add that compound to the **Selected Components List**  
 
 <figure>
