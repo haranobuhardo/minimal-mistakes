@@ -39,7 +39,7 @@ _“Why did y’all want to be an employee after you graduate?”_ One of my mos
 
 _Or is there any problem with **me**?_  
 
-I know this is just a matter of point of view (POV). Relativity. There’s a lot of people that was born unable to even see a thing, doesn’t have the chance to even know their parents’ name, or even don’t even know what “learn” is. I’m still trying to be grateful of everything that God has given to me, eventhough it’s not as many as other, but I’ll try to live with that. But isn’t it natural if we human sometimes want more and more?  
+I know this is just a matter of point of view (POV). Relativity. There’s a lot of people that was born unable to even see a thing, doesn’t have the chance to even know their parents’ name, or even don’t even know what the word “learn” is. I’m still trying to be grateful of everything that God has given to me, eventhough it’s not as many as other, but I’ll try to live with that. But isn’t it natural if we human sometimes want more and more?  
 
 Or perhaps human really born differently, but it’s just us that trying to make everyone’s the same? I mean same in everyway.  
 
