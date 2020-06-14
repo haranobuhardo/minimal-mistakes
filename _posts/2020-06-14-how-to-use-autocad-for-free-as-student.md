@@ -11,8 +11,8 @@ tags:
   - autocad
   - autodesk
 header:
-  teaser: \assets\images\how-to-use-autocad-for-free-as-student-cover.jpg
-  image: \assets\images\how-to-use-autocad-for-free-as-student-cover.jpg
+  teaser: /assets/images/how-to-use-autocad-for-free-as-student-cover.jpg
+  image: /assets/images/how-to-use-autocad-for-free-as-student-cover.jpg
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
   
