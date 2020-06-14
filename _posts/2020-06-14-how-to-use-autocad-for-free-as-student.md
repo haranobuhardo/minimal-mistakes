@@ -17,7 +17,9 @@ header:
 ---
   
 Are you a student and still think that you don’t have the opportunity to learn about AutoCAD because it’s just way too expensive for a student to afford?  
+
 Worry no more! It’s 2020, and there’s always a solution for everything, especially for learning!
+
 In this article, i’ll show you step-by-step guide how to get AutoCAD Student Version for FREE. But before we get started, please don’t exploit this offer for commercial use, if you already have a job and made enough money, please consider to support AutoCAD by buying it’s persona license.
 
 1. Go to [https://www.autodesk.com/education/free-software/featured](https://www.autodesk.com/education/free-software/featured), and select which AutoDesk software you want to have as a Student Version. Since this tutorial was made for AutoCAD, select AutoCAD. <figure><a href="/assets/images/how-to-use-autocad-for-free-as-student-1.jpg"><img src="/assets/images/how-to-use-autocad-for-free-as-student-1.jpg"></a></figure> 
