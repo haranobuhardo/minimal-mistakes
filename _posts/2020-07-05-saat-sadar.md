@@ -7,6 +7,7 @@ tags:
   - social
   - life
   - emotion
+excerpt: "Jatuh, bangkit, jatuh, bangkit, sampai kapan?"
 header:
   teaser: /assets/images/saat-tersadar-header.png
   overlay_image: /assets/images/saat-tersadar-header.png
