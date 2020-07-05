@@ -11,6 +11,7 @@ excerpt: "Jatuh, bangkit, jatuh, bangkit, sampai kapan?"
 header:
   teaser: /assets/images/saat-tersadar-cover.png
   overlay_image: /assets/images/saat-tersadar-cover.png
+  overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
   
