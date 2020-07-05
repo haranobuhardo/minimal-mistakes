@@ -17,7 +17,7 @@ header:
   
 Aku tersadar setelah sekian lamanya aku mengikuti suatu arahan yang salah. Selama ini aku selalu berfikir bahwa orang-orang terlalu jahat untuk bisa menghargai dan membantu perasaan, eksistensi dan masalah dalam hidupku. Tapi ternyata aku salah. Salah besar.  
 
-Mungkin beberapa orang akan menunjukkan how care they are to me, tapi beberapa orang lain justru menunjukkan sebaliknya padaku – dan parahnya orang yang awalnya peduli dengan hidupku terkadang juga justru melakukan sebaliknya padaku. Coba bayangkan betapa sedihnya diriku ketika tahu bahwa tidak ada benar-benar orang yang akan peduli dengan perasaan, eksistensi dan masalah dalam hipdupku?  
+Mungkin beberapa orang akan menunjukkan _how care they are to me_, tapi beberapa orang lain justru menunjukkan sebaliknya padaku – dan parahnya orang yang awalnya peduli dengan hidupku terkadang juga justru melakukan sebaliknya padaku. Coba bayangkan betapa sedihnya diriku ketika tahu bahwa tidak ada benar-benar orang yang akan peduli dengan perasaan, eksistensi dan masalah dalam hipdupku?  
 
 Ya, tapi mau sampai kapan? Sampai akhirnya aku tersadar bahwa aku salah selama ini. Aku salah karena terlalu berpegang pada peran orang lain dalam menentukan sesuatu yang sebenarnya aku yang dapat menentukannya. Mau seberapa banyak rasa turut bersuka cita yang ku terima, namun terkadang aku akan tetap merasa tak bahagia sama sekali, aneh bukan?  
 
