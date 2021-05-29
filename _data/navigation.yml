@@ -2,10 +2,8 @@
 main:
   - title: "Home"
     url: https://haranobuhardo.github.io/
-  - title: "Posts by Year"
-    url: https://haranobuhardo.github.io/year-archive/
-  - title: "Portfolio"
-    url: https://haranobuhardo.github.io/portfolio/
+  - title: "Resume"
+    url: https://haranobuhardo.github.io/online-cv/
   - title: "About"
     url: https://haranobuhardo.github.io/about/
   # - title: "About"
